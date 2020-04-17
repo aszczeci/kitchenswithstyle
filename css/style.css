@@ -824,7 +824,7 @@ p {
 }
 
 .testimonials_image /*PARALLAX DIV*/ {
-	background: url(../images/paralaks3b.jpg) no-repeat fixed center center transparent;
+	background: url(../images/paralaks3b.html) no-repeat fixed center center transparent;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1003,7 +1003,7 @@ p {
 }
 
 .our_team_image /*PARALLAX DIV*/ {
-	background: url(../images/paralaks2a.jpg) no-repeat fixed center center transparent;
+	background: url(../images/paralaks2a.html) no-repeat fixed center center transparent;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
